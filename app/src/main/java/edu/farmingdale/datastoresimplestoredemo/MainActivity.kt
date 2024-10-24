@@ -90,6 +90,7 @@ fun DataStoreDemo(modifier: Modifier) {
             Text("Save Values")
         }
     }
+    
 }
 
 // ToDo 1: Modify the App to store a high score and a dark mode preference
